@@ -1,0 +1,25 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bthhome"
+        android:title="home"
+        android:icon="@drawable/outline_family_home_24"/>
+
+    <item
+        android:id="@+id/btfav"
+        android:title="fav"
+        android:icon="@drawable/outline_favorite_24"/>
+
+    <item
+        android:id="@+id/btset"
+        android:title="set"
+        android:icon="@drawable/outline_display_settings_24"/>
+
+    <item
+        android:id="@+id/btpage4"
+        android:title="page4"
+        android:icon="@drawable/outline_add_24"/>
+
+</menu>
